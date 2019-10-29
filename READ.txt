@@ -1,0 +1,7 @@
+admin: http://127.0.0.1:8000/backend
+user: lina@gmail.com
+pass: 12345678
+
+User: http://127.0.0.1:8000/
+user: lina@gmail.com
+pass: 123456
